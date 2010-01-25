@@ -1,4 +1,5 @@
 #summary C++ Example
+#labels Featured
 
 {{{
 #include "k_merge_tree.h"
